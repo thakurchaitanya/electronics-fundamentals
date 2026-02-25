@@ -12,4 +12,8 @@ For each topic, I:
 - Document learnings
 
 ## Topics
-- 
+- Voltage
+- Current
+- Relation between current(I) and voltage(V)
+- Resistance and Resistor
+-  
