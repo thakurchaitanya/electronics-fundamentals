@@ -16,4 +16,15 @@ For each topic, I:
 - Current
 - Relation between current(I) and voltage(V)
 - Resistance and Resistor
--  
+- Voltage divider circuit
+- Voltage source and Current source
+- Thevnin theorem and Norton theorem
+- Concept of Equivalent source resistance and circuit loading
+- Power transfer
+- Zener diodes
+- Example of thermistor
+- Signal amplitudes and decibels
+- signals
+- Capacitors and ac circuits 
+
+     
