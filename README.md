@@ -25,6 +25,5 @@ For each topic, I:
 - Example of thermistor
 - Signal amplitudes and decibels
 - signals
-- Capacitors and ac circuits 
-
-     
+- Capacitors and ac circuits
+- 
